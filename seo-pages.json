@@ -1,0 +1,38 @@
+{
+  "/": {
+    "title": "Clarvion Health | Healthcare Operations & Revenue Cycle Services",
+    "description": "Clarvion Health helps healthcare organizations strengthen operational performance through revenue cycle management, medical billing, and healthcare operations support."
+  },
+  "/about": {
+    "title": "About Clarvion Health | Healthcare Operations Partner",
+    "description": "Learn how Clarvion Health supports healthcare organizations with specialized expertise, disciplined processes, and practical operational technology."
+  },
+  "/services": {
+    "title": "Healthcare Operations Services | Clarvion Health",
+    "description": "Explore Clarvion Health services for revenue cycle management, medical billing, claims, accounts receivable, denials, patient access, and process optimization."
+  },
+  "/specialties": {
+    "title": "Healthcare Specialties We Support | Clarvion Health",
+    "description": "See how Clarvion Health tailors operational support for physician practices, specialty groups, hospitals, health systems, and other care organizations."
+  },
+  "/why-clarvion": {
+    "title": "Why Choose Clarvion Health | Healthcare Operations",
+    "description": "Discover the Clarvion Health approach to reliable healthcare operations, revenue cycle support, process improvement, and technology enablement."
+  },
+  "/careers": {
+    "title": "Careers at Clarvion Health | Healthcare Operations Jobs",
+    "description": "Explore career opportunities with Clarvion Health across revenue cycle, patient access, administration, process improvement, and technology."
+  },
+  "/contact": {
+    "title": "Contact Clarvion Health | Talk With Our Team",
+    "description": "Contact Clarvion Health to discuss revenue cycle management, healthcare operations support, and the needs of your organization."
+  },
+  "/privacy": {
+    "title": "Privacy Policy | Clarvion Health",
+    "description": "Read the Clarvion Health privacy policy and learn how website information is handled."
+  },
+  "/terms": {
+    "title": "Terms of Service | Clarvion Health",
+    "description": "Review the terms that govern use of the Clarvion Health website."
+  }
+}
